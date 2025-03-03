@@ -138,7 +138,13 @@ main {
     position: absolute;
     left: -1rem;
 }
-
+img{
+    width: 400px;
+    height: 300px;
+}
+h1{
+    text-align: center;
+}
 /* Footer Styles */
 footer {
     background-color: var(--color-deep-orange);
